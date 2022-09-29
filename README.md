@@ -1,2 +1,2 @@
 # Pre-Bootcamp-Public
-Public Repo for Pre-Bootcamp
+Public Repo for Coding-Dojo
