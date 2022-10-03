@@ -136,6 +136,7 @@ button{
 .userrequest, .user{
     display: flex;
     justify-content: space-between;
+    align-items: center;
     margin-top: 5px;
 }
 .uicon{
@@ -144,7 +145,10 @@ button{
     border-radius: 50%;
 }
 .reaction{
+    display: flex;
     margin-top: 5px;
+    align-items: center;
+    gap: 5px;
 }
 .connectionbody .user{
     justify-content: flex-start;
